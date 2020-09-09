@@ -1,5 +1,5 @@
 # pros-lvgl
-Using an unreleased/unmodified kernel version of PROS (scheduled for release alongside PROS 4), this is a decoupled library version of LVGL 5.3 to go alongside a lvgl decoupled kernel.
+Using an unreleased/modified kernel version of PROS (scheduled for release alongside PROS 4), this is a decoupled library version of LVGL 5.3 to go alongside a lvgl decoupled kernel.
 
 ## TODO:
 - Actually test this with LVGL code.
